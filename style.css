@@ -1,0 +1,103 @@
+body {
+  color: rgb(50, 50, 50);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  width: 500px;
+  margin: 0 auto;
+}
+
+html{
+  background-image: url("https://unsplash.it/2000/3000/?random");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: #df5452;
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: #b3b3b3;
+}
+
+a:hover{
+  color: #df5452;
+}
+
+div{
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.top{
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 40px;
+  margin: 40px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 2px #c1bfbf;
+}
+
+.social{
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 40px;
+  margin: 40px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 2px #c1bfbf;
+  list-style-type: none;
+  font-size: 25px;
+}
+
+.social li{
+  list-style-type: none;
+  display: inline;
+  padding: 10px;
+}
+
+.skills{
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 40px;
+  margin: 40px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 2px #c1bfbf;
+}
+
+.footer{
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 40px;
+  margin: 40px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 2px #c1bfbf;
+}
+
+.circle{
+  border-radius: 50%;
+}
+
+
+.contact{
+  font-size: 25px;
+  background-color: #df5452;
+  padding: 3px;
+  border-radius: 3px;
+  color: white;
+  padding-left:10px;
+  padding-right: 10px;
+  padding-bottom: 3px;
+}
+
+.contact:hover{
+  background-color: white;
+  color:blue;
+}
