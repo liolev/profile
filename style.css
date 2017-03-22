@@ -7,11 +7,11 @@ body {
   margin: 0 auto;
 }
 
-html{
+/*html{
   background-image: url("https://unsplash.it/2000/3000/?random");
   background-repeat: no-repeat;
   background-size: cover;
-}
+}*/
 
 h1, h2, h3 {
   font-family: 'Montserrat', sans-serif;
