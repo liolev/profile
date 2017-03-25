@@ -1,0 +1,41 @@
+.features img {
+    height: 100px;
+}
+
+img {
+    vertical-align: middle;
+    padding: 10px;
+    transition: all .3s ease-in-out;
+}
+
+img:hover {
+  transform: scale(1.2);
+}
+
+.padded {
+    padding: 100px 0;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.features h1 {
+  color: black;
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+.features {
+  color: red;
+}
+
+.padded h2 {
+  color: black;
+  margin-bottom: 15px;
+  font-size: 20px;
+  padding: 5px;
+}
+
+
